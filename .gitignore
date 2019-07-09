@@ -1,9 +1,0 @@
-# .gitignore
-.idea/
-*.py
-*.pyc
-*.xml
-
-*.xml
-.idea/workspace.xml
-/.idea/*
